@@ -40,8 +40,3 @@ gcc ./q1.c -o ./q1.exe
 - ( V ) Quando o resultado do inverso é negativo, o código ajusta o valor somando o módulo m0.
 
 - ( V ) O cálculo de fi(n1) (função totiente de Euler) é utilizado apenas quando n1 não é primo.
-  
-
-<br>
-<br>
-
